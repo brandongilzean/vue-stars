@@ -3,12 +3,12 @@
 A app that shows examples of ratings for an app and always puts it in a docker container.
 
 
-# Files contained
+## Files contained
 
 - Dockerfile for buiding with nginx
 
 
-# Build with docker
+## Build with docker
 
 docker build -t vuejs-cookbook/dockerize-vuejs-app .
 
